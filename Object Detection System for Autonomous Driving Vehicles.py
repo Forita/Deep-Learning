@@ -229,7 +229,7 @@ def predict(sess, image_file):
 out_scores, out_boxes, out_classes = predict(sess, "test.jpg")
 
 #References:
-#1. Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi - [You Only Look Once: Unified, Real-Time Object Detection (2015)] (https://arxiv.org/abs/1506.02640)
+#1. Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi - link: https://arxiv.org/abs/1506.02640[You Only Look Once: Unified, Real-Time Object Detection (2015)] 
 #2. Joseph Redmon, Ali Farhadi - [YOLO9000: Better, Faster, Stronger (2016)](https://arxiv.org/abs/1612.08242)
 #3. Allan Zelener - [YAD2K: Yet Another Darknet 2 Keras] (https://github.com/allanzelener/YAD2K)
 #4. The official YOLO website (https://pjreddie.com/darknet/yolo/)
