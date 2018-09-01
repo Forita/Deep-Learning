@@ -4,7 +4,8 @@
 
 Image from [here](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 
-### Implemented a fast and accurate object detection system for self-driving vehicles using YOLO model.
+
+- Implemented a fast and accurate object detection system for self-driving vehicles using YOLO model.
 
 - Model can recognize 80 classes of objects.
 
