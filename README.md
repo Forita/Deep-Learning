@@ -1,4 +1,4 @@
-# Deep Learning Projects
-![deep learning](https://rossintelligence.com/wp-content/uploads/2018/01/1_vKJ11OU-TiaIJ-2PDawJqQ-1024x724.jpeg)
+# Deep Learning
+![deep learning](https://www.simplilearn.com/ice9/free_resources_article_thumb/AI-and-Deep-Learning-Put-Big-Data-on-Steroids.jpg)
 
-Image from [here](https://rossintelligence.com/what-is-deep-learning/)
+Image from [here](https://www.simplilearn.com/ai-deep-learning-put-big-data-on-steroids-article)
