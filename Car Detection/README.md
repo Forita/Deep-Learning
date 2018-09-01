@@ -1,6 +1,6 @@
 # Object Detection System for Autonomous Vehicles
 
-![image](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi3-pr_qZrdAhUwWN8KHS5MDiEQjRx6BAgBEAU&url=https%3A%2F%2Fmedium.com%2F%40jonathan_hui%2Freal-time-object-detection-with-yolo-yolov2-28b1b93e2088&psig=AOvVaw1X0JBiGf7GOU3MsdzBLI5P&ust=1535909005700655)
+![image](https://cdn-images-1.medium.com/max/1600/1*QOGcvHbrDZiCqTG6THIQ_w.png)
 
 - Implemented a fast and accurate object detection system for self-driving vehicles using YOLO model.
 
