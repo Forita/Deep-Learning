@@ -8,6 +8,6 @@
 
 - Detection accuracy was improved by filtering through all the boxes using non-max suppression. Specifically:
 
--- Score thresholding on the probability of detecting a class to keep only accurate (high probability) boxes
+  - Score thresholding on the probability of detecting a class to keep only accurate (high probability) boxes
 
--- Intersection over Union (IoU) thresholding to eliminate overlapping boxes.
+  - Intersection over Union (IoU) thresholding to eliminate overlapping boxes.
