@@ -1,10 +1,12 @@
 - Implemented a fast and accurate object detection system for self-driving vehicles using YOLO model.
 
-- Model can detect 80 classes of objects with 5 anchor boxes.
+- Model can recognize 80 classes of objects.
+
+- MOdel used 5 anchor boxes as bounding boxes.
 
 - It run input images through a deep CNN followed by the encoding that can be seen as a grid where each cell contains information about 5 anchor boxes.
 
-- Bouding boxes were filtered through non-max suppression. Specifically:
+- Detection accuracy was improved by filtering through all the boxes using non-max suppression. Specifically:
 
 - Score thresholding on the probability of detecting a class to keep only accurate (high probability) boxes
 
