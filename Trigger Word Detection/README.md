@@ -5,4 +5,7 @@
 Image from [here](https://www.quantiphi.com/portfolio-posts/speech-recognition/)
 
 - Created a speech dataset with a mix of positive words (trigger words) and negative words (non-trigger words) on different background noises using data synthesis. 
-- Implemented a model consisting of 1-D convolutional layers, GRU layers and dense layers, and optimized it by Adam optimizer and binary cross entropy loss.
+
+- Implemented a model consisting of 1-D convolutional layers, GRU layers and dense layers.
+
+- Optimized model by Adam optimizer and binary cross entropy loss.
