@@ -2,9 +2,9 @@
 
 - Model can recognize 80 classes of objects.
 
-- MOdel used 5 anchor boxes as bounding boxes.
+- Model used 5 anchor boxes as bounding boxes.
 
-- It run input images through a deep CNN followed by the encoding that can be seen as a grid where each cell contains information about 5 anchor boxes.
+- Model run input images through a deep CNN followed by the encoding that is a grid where each cell contains information about 5 anchor boxes.
 
 - Detection accuracy was improved by filtering through all the boxes using non-max suppression. Specifically:
 
