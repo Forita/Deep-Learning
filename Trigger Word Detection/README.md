@@ -1,4 +1,4 @@
-# Trigger Word Detection System for Voice-Controlled Speaker
+# Trigger Word Detection System for Voice-Controlled Speakers
 
 ![image](https://www.quantiphi.com/wp-content/uploads/bfi_thumb/qunatiphi-speech-recognition-primary-nnzizpn0xk7mn226kwx08vtlocj7m0xtxyu0nwvfyg.jpg)
 
